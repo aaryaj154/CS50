@@ -4,12 +4,12 @@ This repository contains my solutions to the problem sets from **Harvard's CS50x
 
 I’m using this repo to track my learning progress, build a public portfolio, and practice using Git and GitHub!
 
-## ✅ Problem Set 0: Scratch – Memory Game
+## ✅ Problem Set 0: Scratch – Mouse Chase Game
 
-- 🎮 A simple memory game built using Scratch.
-- 🧠 When a player clicks matching shapes, the score increases.
-- ❌ If mismatched, the cards reset.
-- 🏁 Game ends when all matches are found.
+- 🐭 A simple chase game built using Scratch.
+- 🎮 The player controls a mouse trying to avoid bats.
+- 🧠 Score increases as the player survives longer.
+- ❌ Game ends when the bat touches the mouse or score reaches a target.
 
 🔗 [View Scratch Project](https://scratch.mit.edu/projects/1190924492)
 
